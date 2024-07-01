@@ -1,8 +1,8 @@
 Create database if not exists
-CREATE DATABASE IF NOT EXISTS bms1;
+CREATE DATABASE IF NOT EXISTS bank;
 
 Use the database
-USE bms1;
+USE bank;
 
 -- Customers table
 CREATE TABLE IF NOT EXISTS cust_detail (
